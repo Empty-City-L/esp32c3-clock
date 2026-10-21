@@ -16,6 +16,13 @@
 
 ---
 
+## 下载
+
+- [最新 Release](https://github.com/Empty-City-L/esp32c3-clock/releases/latest)：附带完整源码包 `esp32c3-clock-v1.0.0-source.zip`
+- 仓库右上角 **Code → Download ZIP** 也可直接下载源码
+
+---
+
 ## 功能
 
 - **160×128 横屏时钟**：DIN 数字大时间、星期/日期、270° 秒环；秒环支持平滑走秒，12/24 小时制可切换。
