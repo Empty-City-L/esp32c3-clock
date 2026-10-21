@@ -1,0 +1,15 @@
+.pio/
+.vscode/
+*.log
+*.bin
+*.elf
+*.map
+compile_commands.json
+.clangd/
+docs/ui-dump*.png
+
+# 仅保留本次实机/网页截图，历史设计稿不进入仓库
+docs/*.png
+docs/*.jpg
+!docs/screenshots/
+!docs/screenshots/*.png
